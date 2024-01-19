@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using ibad.Models;
 
-namespace ibad.Controllers
+namespace Afaq.Controllers
 {
     public class HomeController : Controller
     {
